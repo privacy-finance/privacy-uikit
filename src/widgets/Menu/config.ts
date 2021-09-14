@@ -143,12 +143,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: ""
+    href: "https://twitter.com/PrivacyWallOrg"
   },
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/Labiswap"
+    href: ""
   },
   {
     label: "Medium",
@@ -158,7 +158,7 @@ export const socials = [
   {
     label: "Instagram",
     icon: "InstagramIcon",
-    href: "https://www.instagram.com/labiswap?r=nametag"
+    href: "https://www.instagram.com/privacywall/"
   },
   {
     label: "Youtube",
@@ -168,7 +168,7 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/labiswap"
+    href: "https://github.com/privacy-finance"
   },
 ];
 
