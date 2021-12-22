@@ -145,16 +145,16 @@ export const socials = [
     icon: "TwitterIcon",
     href: "https://twitter.com/PrivacyWallOrg"
   },
-  {
-    label: "Telegram",
-    icon: "TelegramIcon",
-    href: ""
-  },
-  {
-    label: "Medium",
-    icon: "MediumIcon",
-    href: ""
-  },
+  // {
+  //   label: "Telegram",
+  //   icon: "TelegramIcon",
+  //   href: ""
+  // },
+  // {
+  //   label: "Medium",
+  //   icon: "MediumIcon",
+  //   href: ""
+  // },
   {
     label: "Instagram",
     icon: "InstagramIcon",
@@ -163,7 +163,7 @@ export const socials = [
   {
     label: "Youtube",
     icon: "YoutubeIcon",
-    href: ""
+    href: "https://www.youtube.com/channel/UCg_UwmQh_w0Ybv6Iciyi0Hg"
   },
   {
     label: "Github",

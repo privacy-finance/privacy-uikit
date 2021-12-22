@@ -4074,16 +4074,16 @@ var socials = [
         icon: "TwitterIcon",
         href: "https://twitter.com/PrivacyWallOrg"
     },
-    {
-        label: "Telegram",
-        icon: "TelegramIcon",
-        href: ""
-    },
-    {
-        label: "Medium",
-        icon: "MediumIcon",
-        href: ""
-    },
+    // {
+    //   label: "Telegram",
+    //   icon: "TelegramIcon",
+    //   href: ""
+    // },
+    // {
+    //   label: "Medium",
+    //   icon: "MediumIcon",
+    //   href: ""
+    // },
     {
         label: "Instagram",
         icon: "InstagramIcon",
@@ -4092,7 +4092,7 @@ var socials = [
     {
         label: "Youtube",
         icon: "YoutubeIcon",
-        href: ""
+        href: "https://www.youtube.com/channel/UCg_UwmQh_w0Ybv6Iciyi0Hg"
     },
     {
         label: "Github",
@@ -4223,7 +4223,7 @@ var templateObject_1$d;
 var PriceLink = styled.a(templateObject_1$c || (templateObject_1$c = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"], ["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"])));
 var CakePrice = function (_a) {
     var cakePriceUsd = _a.cakePriceUsd;
-    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://bscscan.com/token/0x677Cd21610Ca6bfFDE28D14999149820fa26E803", target: "_blank" },
+    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://bscscan.com/token/0x526834C217C5d0a4Ec74DCDEdC2b8886e7b82f28", target: "_blank" },
         React.createElement(Icon$$, { width: "24px", mr: "8px" }),
         React.createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React.createElement(Skeleton, { width: 80, height: 24 }));
 };
